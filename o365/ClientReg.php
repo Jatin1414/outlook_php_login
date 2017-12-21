@@ -2,10 +2,10 @@
 // Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See full license at the bottom of this file.
 class ClientReg {
   // App's client ID. Register the app in Azure AD to get this value.
-  public static $clientId = "XXXXXXXXXX";
+  public static $clientId = "XXXXXXXXXXX";
   // App's client secret. Register the app in Azure AD to get this value.
   public static $clientSecret = "XXXXXXXXXX";
-}
+
 
 
 //vmjsAEKD104?%@vlxUDC25$
